@@ -34,3 +34,12 @@
   - Data Centers
 
 ## Aula 10/03
+- Infraestrutura global da AWS
+  - POPs - Edge Location
+- Segurança
+  - Modelo de responsabilidade compartilhado
+  - Autenticação
+  - Autorização
+  - Princípio do privilégio mínimo
+  - Criptografia
+
