@@ -43,3 +43,11 @@
   - Princípio do privilégio mínimo
   - Criptografia
 
+## Aula 13/03
+- Modelo de responsabilidade compartilhada
+- Princípio do privilégio mínimo
+- Autenticação
+- Autorização
+- Identity and Access Management
+- Usuários
+- Acesso pela console / acesso programático
