@@ -2,6 +2,9 @@
 
 [AWS Canvas](https://awsacademy.instructure.com/courses/113113)
 
+## Repositório dos alunos
+- [Repos](https://gist.github.com/901f02fd5f852b62abab10b5fb2d6328.git)
+
 ## Aula 24/02
 - Well-Architect Framework
   - Excelencia operacional
