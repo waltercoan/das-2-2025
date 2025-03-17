@@ -54,3 +54,8 @@
 - Identity and Access Management
 - Usuários
 - Acesso pela console / acesso programático
+
+## Aula 17/03
+- Policy de Identidade
+- Policy de Recurso
+- S3
