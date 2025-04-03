@@ -98,3 +98,5 @@
 
 ## Aula 03/04
 - Computing (EC2)
+- EBS
+- AMI
