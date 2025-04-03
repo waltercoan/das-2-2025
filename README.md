@@ -89,3 +89,12 @@
     }
 ]
 ```
+
+## Aula 27/03
+- Códigos S3
+
+## Aula 31/03
+- Códigos S3
+
+## Aula 03/04
+- Computing (EC2)
