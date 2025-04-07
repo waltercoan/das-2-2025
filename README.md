@@ -100,3 +100,8 @@
 - Computing (EC2)
 - EBS
 - AMI
+
+## Aula 07/04
+- Placement (Cluster/Spread/Partition)
+- EC2 Purchase model (on-demand/reserved/savings plans/spot)
+
