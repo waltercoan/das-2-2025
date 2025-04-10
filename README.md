@@ -105,3 +105,7 @@
 - Placement (Cluster/Spread/Partition)
 - EC2 Purchase model (on-demand/reserved/savings plans/spot)
 
+## Aula 10/04
+- RDS
+- Bancos de dados relacionais
+- Bancos de dados não relacionais
