@@ -109,3 +109,10 @@
 - RDS
 - Bancos de dados relacionais
 - Bancos de dados não relacionais
+
+# Segundo Bimestre
+
+## Aula 05/05
+- VPC
+- CIDR
+- Subnet Pública
