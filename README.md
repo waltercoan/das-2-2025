@@ -116,3 +116,8 @@
 - VPC
 - CIDR
 - Subnet Pública
+
+## Aula 12/05
+- Fazer os laboratórios [Canvas](https://awsacademy.instructure.com/courses/113113)
+- Guided lab: Creating a Virtual Private Cloud
+- Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
