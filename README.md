@@ -121,3 +121,18 @@
 - Fazer os laboratórios [Canvas](https://awsacademy.instructure.com/courses/113113)
 - Guided lab: Creating a Virtual Private Cloud
 - Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
+
+## Aula 15/05
+- Fazer os laboratórios [Canvas](https://awsacademy.instructure.com/courses/113113)
+- Guided lab: Creating a Virtual Private Cloud
+- Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
+
+## Aula 19/05
+- VPC Peering
+- AWS VPN Site-to-Site
+- AWS Direct Connect
+
+## Aula 26/05
+- IAM Groups
+- Roles - AWS STS
+- AWS Cognito
