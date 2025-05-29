@@ -136,3 +136,8 @@
 - IAM Groups
 - Roles - AWS STS
 - AWS Cognito
+
+## Aula 29/05
+- Criptografia simétrica
+- Criptografia assimétrica
+
