@@ -141,3 +141,13 @@
 - Criptografia simétrica
 - Criptografia assimétrica
 
+## Aula 09/06
+- Fazer os laboratórios [Canvas](https://awsacademy.instructure.com/courses/113113)
+- Guided lab: Creating a Highly Available Environment
+- Challenge (Café) lab: Creating a Scalable and Highly Available Environment for the Café
+
+## Aula 12/06
+- Fazer os laboratórios [Canvas](https://awsacademy.instructure.com/courses/113113)
+- Guided lab: Creating a Highly Available Environment
+- Challenge (Café) lab: Creating a Scalable and Highly Available Environment for the Café
+
