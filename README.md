@@ -151,3 +151,9 @@
 - Guided lab: Creating a Highly Available Environment
 - Challenge (Café) lab: Creating a Scalable and Highly Available Environment for the Café
 
+## Aula 16/06
+- Load Balancer
+- DNS
+
+## Aula 23/06
+- Infraestrutura como código
