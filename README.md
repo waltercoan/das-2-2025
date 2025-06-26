@@ -157,3 +157,11 @@
 
 ## Aula 23/06
 - Infraestrutura como código
+
+## Aula 26/06
+- Como reduzir acoplamento das aplicações
+
+############# FIM DO CONTEÚDO ##################
+
+### Recuperação 30/06 e 03/07
+- ENTREGA REPOSITÓRIOS 03/07
